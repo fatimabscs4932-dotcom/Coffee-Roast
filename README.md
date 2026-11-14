@@ -4,6 +4,8 @@ A specialty coffee shop landing page built as a single-page site to showcase the
 
 ## How to Run the Project
 
+Live Link: https://fatimabscs4932-dotcom.github.io/HTML/
+
 Alternatively, to run it locally:
 1. Clone or download this repository.
 2. Open the project folder and double-click the `index.html` file.
